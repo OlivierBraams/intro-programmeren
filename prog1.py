@@ -1,1 +1,3 @@
-input("invoer:)
+input("invoer:")
+
+print
