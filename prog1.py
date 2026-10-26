@@ -1,3 +1,6 @@
+
+
+
 input("invoer:")
 
 print(input)
