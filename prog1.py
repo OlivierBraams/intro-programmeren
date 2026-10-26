@@ -1,7 +1,7 @@
 
 
 
-input("invoer:")
+input = input("invoer:")
 
 print(input)
 print(input)
