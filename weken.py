@@ -1,1 +1,0 @@
-def weeks_elapsed
