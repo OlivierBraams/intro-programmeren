@@ -5,4 +5,3 @@ if __name__ == '__main__':
     print(f"Er zijn {result} volle weken verstreken.")
 
 
-if __name__:
