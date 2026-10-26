@@ -1,3 +1,3 @@
 input("invoer:")
 
-print
+print(input * 3)
