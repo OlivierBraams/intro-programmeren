@@ -1,4 +1,4 @@
-input("invoer:")
+input("invoer:" :string)
 
 print(input)
 print(input)
