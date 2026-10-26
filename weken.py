@@ -6,5 +6,6 @@ if __name__ == '__main__':
     print(f"Er zijn {result} volle weken verstreken.")
 
 
-
+def weeks_elapsed(x,y):
+    
 
