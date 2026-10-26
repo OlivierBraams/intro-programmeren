@@ -6,6 +6,9 @@ if __name__ == '__main__':
 
 
 def weeks_elapsed(x,y):
+    """
+    
+    """
     result = abs(day2 - day1) // 7
-    return 
+    return result
 
