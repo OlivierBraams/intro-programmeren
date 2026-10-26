@@ -1,1 +1,1 @@
-x = input("getal:")
+x = int(input("getal:"))
