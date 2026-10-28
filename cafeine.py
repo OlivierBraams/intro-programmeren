@@ -9,7 +9,7 @@ def calculate_cafeine(coffee: int, tea: int, energy: int, cola: int) -> int:
     c = energy * 80
     d = cola * 40
     
-    return 
+    return a, b, c, d 
 
 
 if __name__ == '__main__':
