@@ -25,5 +25,5 @@ if __name__ == '__main__':
     afstand = int(input("Hoe ver ga je weg in km? "))
     nachten = int(input("Hoeveel nachten is je verblijf? "))
     
-    print("Jouw vakantie kost: )
+    print("Jouw vakantie kost: ")
     
