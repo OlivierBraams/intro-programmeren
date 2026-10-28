@@ -13,8 +13,6 @@ def weeks_elapsed(x,y):
     return result
 
 
-
-
 if __name__ == '__main__':
     
     day1 = int(input("Dagnummer 1: "))
