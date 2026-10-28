@@ -6,7 +6,7 @@ def weeks_elapsed(x,y):
     2
     """
     result = abs(day2 - day1) // 7
-    print("Er zijn {result} volle weken verstreken")
+    print(f"Er zijn {result} volle weken verstreken")
 
 
 
