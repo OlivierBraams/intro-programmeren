@@ -9,7 +9,7 @@ def schrikkeljaar(jaar: int) -> bool:
     """
     if jaar % 100 == 0:
         return False
-    elif jaar %    
+    elif jaar % 4   
     
 
 if __name__ == '__main__':
