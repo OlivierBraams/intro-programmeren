@@ -3,17 +3,13 @@ def travel_costs(km: int) -> float:
     >>> travel_costs(10)
     3
     >>> travel_costs(1000)
-    2600
-    
-    Bepaalt de vervoerskosten op basis van de te rijden afstand
-    naar de accomodatie (tel `km` twee keer voor heen en terug).
+    260
     """
     return int(km * 0.13 * 2)
 
 def overnight_costs(nights: int) -> float:
     """
-    Bepaalt de overnachtingskosten op basis van het aantal nachten
-    dat je op vakantie gaat.
+    
     """
     return nights * 60
 
