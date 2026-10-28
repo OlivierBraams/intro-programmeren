@@ -7,4 +7,4 @@ def is_acidic(ph) -> bool:
     
 
 if __name__ == '__main__':
-    ph = int(input())
+    ph = int(input("wat"))
