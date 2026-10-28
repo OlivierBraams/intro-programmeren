@@ -5,7 +5,7 @@ def weeks_elapsed(x,y):
     >>> weeks_elapsed(20, 3)
     2
     >>> weeks_elapsed(8, 5)
-
+    0
     >>> weeks_elapsed(40, 61)
 
     """
