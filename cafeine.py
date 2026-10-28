@@ -5,7 +5,7 @@ def calculate_cafeine(coffee: int, tea: int, energy: int, cola: int) -> int:
     """
     
     coffee * 90
-    thee * 45
+    tea * 45
     ene
 
 
