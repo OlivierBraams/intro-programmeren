@@ -1,4 +1,4 @@
-def (: int) -> bool:
+def schrikkeljaar(jaar: int) -> bool:
     """
     >>> is_acidic(2)
     True
