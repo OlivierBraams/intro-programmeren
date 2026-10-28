@@ -23,5 +23,5 @@ def total_costs(km: int, nights: int) -> int:
 
 if __name__ == '__main__':
     afstand = int(input("Hoe ver ga je weg in km? "))
-    nachten = int(input("Hoeveel"))
+    nachten = int(input("Hoeveel nachten is je verblijf? "))
     
