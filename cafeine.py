@@ -4,10 +4,10 @@ def calculate_cafeine(coffee: int, tea: int, energy: int, cola: int) -> int:
       drankjes van het type koffie, thee, energie, en cola.
     """
     
-    coffee * 90
-    tea * 45
-    energy * 80
-    cola * 40
+    a = coffee * 90
+    b = tea * 45
+    c= energy * 80
+    d= cola * 40
     
     return 
 
