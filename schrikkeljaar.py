@@ -8,7 +8,7 @@ def schrikkeljaar(jaar: int) -> bool:
     False
     """
     if jaar % 100 == 0:
-        if jaar % 400: 
+        if jaar % 400 == 0: 
             return True
         else:
             return False
