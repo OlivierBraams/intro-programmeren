@@ -1,6 +1,6 @@
 def is_acidic(ph) -> bool:
     if ph < 7.0:
-        print("Het is een zuur")
+        return True
     else:
         print("Het is een base")
     
