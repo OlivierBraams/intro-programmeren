@@ -17,3 +17,5 @@ if __name__ == '__main__':
     thee = int(input("hoeveel koppen thee? "))
     energiedrank = int(input("hoeveel energiedrankjes? "))
     cola = int(input("hoeveel glazen cola? "))
+    
+    
