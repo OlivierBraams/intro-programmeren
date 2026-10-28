@@ -22,5 +22,5 @@ def total_costs(km: int, nights: int) -> int:
     return km + nights
 
 if __name__ == '__main__':
-    afstand = int(input())
+    afstand = int(input("Hoe ver gaj "))
     
