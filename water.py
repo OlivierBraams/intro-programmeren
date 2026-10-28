@@ -4,8 +4,8 @@ def hoeveelheid_water(minuten: int) -> int:
     120
     >>> hoeveelheid_water(3)
     36
-    >>> hoeveelheid_water(5)
-    60
+    >>> hoeveelheid_water(6)
+    72
     Geeft de hoeveelheid water uit de douche, gerekend in flesjes,
     gegeven het aantal minuten douchen.
     """
