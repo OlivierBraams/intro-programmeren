@@ -1,4 +1,4 @@
-def weeks_elapsed(x: int,y):
+def weeks_elapsed(x: int,y: int):
     """
     >>> weeks_elapsed(3, 20)
     2
