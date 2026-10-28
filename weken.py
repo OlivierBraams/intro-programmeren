@@ -19,7 +19,7 @@ if __name__ == '__main__':
     day2 = int(input("Dagnummer 2: "))
     
 
-    print(f"Er zijn {weeks_elapsed(day1, day2)} volledige weken verstreken")
+    print(f"Er zijn {weeks_elapsed(day1, day2)} volle weken verstreken")
     
 
 
