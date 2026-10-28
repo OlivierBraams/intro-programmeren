@@ -18,4 +18,4 @@ if __name__ == '__main__':
     energiedrank = int(input("hoeveel energiedrankjes? "))
     cola = int(input("hoeveel glazen cola? "))
     
-    totaal = calculate_cafeine(koffie, thee, energiedrank, cola)
+    print (calculate_cafeine(koffie, thee, energiedrank, cola)
