@@ -7,7 +7,7 @@ def schrikkeljaar(jaar: int) -> bool:
     >>> is_acidic(7)
     False
     """
-    if jaar < 7.0:
+    if jaar :
         return True
     else:
         return False
