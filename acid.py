@@ -9,4 +9,6 @@ def is_acidic(ph) -> bool:
 if __name__ == '__main__':
     ph = int(input("Geef een pH-waarde: "))
     if is_acidic:
-        print()
+        print("Het is een zuur")
+    else:
+        print("Het is een base")
