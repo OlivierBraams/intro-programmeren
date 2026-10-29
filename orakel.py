@@ -1,7 +1,6 @@
 def check_answer(antwoord: str) -> bool:
     """
-    Controleer of het antwoord op de vraag één van de opties
-    42, tweeenveertig, of tweeënveertig is.
+    
     """
     if antwoord = 42:
         return True
