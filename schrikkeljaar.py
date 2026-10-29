@@ -16,7 +16,7 @@ def schrikkeljaar(jaar: int) -> bool:
             else:
                 return False
     else:
-        return True
+        return False
     
 
 if __name__ == '__main__':
