@@ -12,7 +12,8 @@ def calculate_length(c1: int, c2: int) -> int:
     """
     Berekent de lengte van een zijde op basis van twee coördinaten
     """
-    lengte = c2 - c1
+    return c2 - c1
+    
 
 if __name__ == '__main__':
     ax1 = int(input("Geef de x1 van A: "))
