@@ -1,6 +1,10 @@
 def check_answer(antwoord: str) -> bool:
     """
-    >>> check_answer()
+    >>> check_answer(42)
+    True
+    >>>check_answer(3)
+    False
+    >>>check_answee
     """
     if antwoord = 42:
         return True
