@@ -3,6 +3,10 @@ def get_positive_int():
     while getal % 2 != 0 or getal < 1:
         getal = int(input("Geef een positief even getal: "))
 
+def get_positive_int():
+    getal = 0
+    while getal % 2 != 0 or getal < 1:
+        getal = int(input("Geef een positief even getal: "))
 
 
 if __name__ == '__main__':
