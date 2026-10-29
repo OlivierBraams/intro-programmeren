@@ -51,4 +51,4 @@ if __name__ == '__main__':
         else:
             print("De rechthoeken zijn gelijk!")
     else:
-        print("De rechthoeken zijn niet gelijk")
+        print("Er is niks aan :( ")
