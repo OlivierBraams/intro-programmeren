@@ -24,5 +24,5 @@ def print_collatz(n):
 
 n = int(input("getal: "))
 print_collatz(n)
-print(f"Het kostte {collatz_length(n)} stappen")
+print(f"Het kostte {collatz_length(n)} stappen om bij 1 te komen")
 
