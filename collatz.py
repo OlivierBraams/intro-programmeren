@@ -9,7 +9,11 @@ def collatz_length(n):
         teller += 1
         
     return teller
-    
+ 
+print 
+
+
+
 n = int(input("getal: "))
 print(f"Het koste {collatz_length(n)} stappen om op 1 uit te komen")
 
