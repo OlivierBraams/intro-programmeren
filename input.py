@@ -13,7 +13,7 @@ def get_min_int(minimum):
     while  getal <= minimum:
         getal = int(input(f"Geef een groter getal dan {minimum}: "))
         
-def get_min_int(minimum):
+def get_two_different_ints():
     getal1 = int(input("Geef een getal: "))
     getal2 = getal1
     while  getal1 == getal2:
