@@ -6,7 +6,7 @@ def get_positive_int():
 def get_any_int_but_0():
     getal = 0
     while getal == 0:
-        getal = int(input("Geef een positief even getal: "))
+        getal = int(input("Geef een ander getal dan 0: "))
 
 
 if __name__ == '__main__':
