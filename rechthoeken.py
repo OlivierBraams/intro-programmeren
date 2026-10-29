@@ -49,4 +49,4 @@ if __name__ == '__main__':
             print("De rechthoeken zijn gelijk!")
             print("En ze zijn ook nog vierkant!")
         else:
-            print("De rechthoeken zijn gelijk")
+            print("De rechthoeken zijn gelijk!")
