@@ -23,5 +23,5 @@ def print_collatz(n):
 
 
 n = int(input("getal: "))
-print
+print_collatz(n)
 
