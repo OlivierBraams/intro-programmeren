@@ -8,5 +8,7 @@ def collatz_length(n):
         
         teller += 1
         
-        
+    return teller
+    
+
 
