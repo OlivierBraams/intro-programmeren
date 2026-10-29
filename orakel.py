@@ -13,7 +13,7 @@ def check_answer(antwoord: str) -> bool:
         return False
 
 if __name__ == '__main__':
-    vraag = 
+    vraag = "Wat is het antwoord op de grote vraag van het leven, het universum en alles daarbij?"
     antwoord = input("Wat is het antwoord op de grote vraag van het leven, het universum en alles daarbij? ")
     if check_answer(antwoord):
         print("Ja")
