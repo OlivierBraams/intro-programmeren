@@ -44,7 +44,7 @@ if __name__ == '__main__':
     by1 = int(input("Geef de y1 van B: "))
     by2 = int(input("Geef de y2 van B: "))
     
-    ax = calculate_length(ax1, ax2)
+    ax = calculate_length(ax1,ax2)
     ay = calculate_length(ay1,ay2)
     bx = calculate_length(bx1,bx2)
     by = calculate_length(by1,by2)
