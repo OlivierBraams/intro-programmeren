@@ -23,5 +23,5 @@ def print_collatz(n):
 
 
 n = int(input("getal: "))
-print(f"Het koste {collatz_length(n)} stappen om op 1 uit te komen")
+
 
