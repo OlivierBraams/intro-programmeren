@@ -11,5 +11,5 @@ def collatz_length(n):
     return teller
     
 n = int(input("getal: "))
-print(f"Het koste {collatz_length(n)}
+print(f"Het koste {collatz_length(n)} stappen om op 1 uit te komen")
 
