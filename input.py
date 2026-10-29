@@ -1,5 +1,5 @@
 def get_positive_int():
-    getal = int(input())
+    getal = int(input("mag een ee"))
 
 
 
