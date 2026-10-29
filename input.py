@@ -4,7 +4,7 @@ def get_positive_int():
         getal = int(input("Geef een positief even getal: "))
 
 def get_any_int_but_0():
-    getal = 1
+    getal = 0
     while getal  1:
         getal = int(input("Geef een positief even getal: "))
 
