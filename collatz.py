@@ -22,7 +22,7 @@ def print_collatz(n: int) -> None:
 
 
 if __name__ == "__main__":
-n = int(input("getal: "))
-print_collatz(n)
-print(f"Het koste {collatz_length(n)} stappen om bij 1 te komen")
+    n = int(input("getal: "))
+    print_collatz(n)
+    print(f"Het koste {collatz_length(n)} stappen om bij 1 te komen")
 
