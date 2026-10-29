@@ -24,4 +24,4 @@ if __name__ == '__main__':
     if is_acidic(ph):
         print(f"{jaar} is een schrikkeljaar")
     else:
-        print("{jaar} is geen schrikkeljaar")
+        print(f"{jaar} is geen schrikkeljaar")
