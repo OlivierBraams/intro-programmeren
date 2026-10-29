@@ -10,7 +10,7 @@ def collatz_length(n: int) -> int:
         
     return teller
 
-def print_collatz(n):
+def print_collatz(n: int) -> int:
     print(n)
     while n > 1: 
         if n % 2 == 0:
