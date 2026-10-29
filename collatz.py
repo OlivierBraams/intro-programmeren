@@ -17,7 +17,7 @@ def print_collatz(n):
             n = n / 2
             print(n)
         else: 
-            n = n * 3
+            n = n * 3 
 
 
 
