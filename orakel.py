@@ -11,7 +11,7 @@ def check_answer(antwoord: str) -> bool:
         return True
     elif antwoord == "tweeenveertig":
         return True
-    elif antwoord == "tweeënveertig:
+    elif antwoord == "tweeënveertig":
         return True
     else:
         return False
