@@ -10,5 +10,6 @@ def collatz_length(n):
         
     return teller
     
-n = int(input)
+n = int(input("getal: "))
+
 
