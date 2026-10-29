@@ -12,6 +12,7 @@ def calculate_length(c1: int, c2: int) -> int:
     """
     >>> calculate_length(3,5)
     2
+    >>> calculate_length(8,5)
     """
     return c2 - c1
     
