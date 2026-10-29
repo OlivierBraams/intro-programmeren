@@ -31,7 +31,7 @@ def calculate_length(c1: int, c2: int) -> int:
     >>> calculate_length(1,5)
     4
     """
-    return c2 - c1
+    return abs(c2 - c1)
     
 
 if __name__ == '__main__':
