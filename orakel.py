@@ -4,7 +4,7 @@ def check_answer(antwoord: str) -> bool:
     True
     >>> check_answer("3")
     False
-    >>> check_answer("tweeenveertig)
+    >>> check_answer("tweeenveertig")
     True
     """
     if antwoord == "42":
