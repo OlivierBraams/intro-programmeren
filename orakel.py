@@ -1,6 +1,6 @@
 def check_answer(antwoord: str) -> bool:
     """
-    
+    >>> 
     """
     if antwoord = 42:
         return True
