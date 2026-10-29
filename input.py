@@ -13,6 +13,10 @@ def get_min_int(minimum):
     while  getal <= minimum:
         getal = int(input(f"Geef een groter getal dan {minimum}: "))
         
+def get_min_int(minimum):
+    getal = 0
+    while  getal <= minimum:
+        getal = int(input(f"Geef een groter getal dan {minimum}: "))
         
         
 if __name__ == '__main__':
