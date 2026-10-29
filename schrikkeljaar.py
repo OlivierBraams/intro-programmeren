@@ -1,4 +1,4 @@
-def schrikkeljaar(jaar: int) -> bool:
+def is_schrikkel(jaar: int) -> bool:
     """
     >>> schrikkeljaar(200)
     False
