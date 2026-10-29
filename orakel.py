@@ -7,11 +7,11 @@ def check_answer(antwoord: str) -> bool:
     >>> check_answer(tweeenveertig)
     True
     """
-    if antwoord = 42:
+    if antwoord == 42:
         return True
-    elif antwoord = tweeenveertig:
+    elif antwoord == tweeenveertig:
         return True
-    elif antwoord = tweeënveertig:
+    elif antwoord == tweeënveertig:
         return True
     else:
         return False
