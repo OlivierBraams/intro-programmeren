@@ -23,7 +23,7 @@ def schrikkeljaar(jaar: int) -> bool:
 
 if __name__ == '__main__':
     jaar = int(input("Geef een jaartal: "))
-    if is_acidic(ph):
+    if is_schrikkel(ph):
         print(f"{jaar} is een schrikkeljaar")
     else:
         print(f"{jaar} is geen schrikkeljaar")
