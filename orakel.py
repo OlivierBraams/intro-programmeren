@@ -9,9 +9,9 @@ def check_answer(antwoord: str) -> bool:
     """
     if antwoord == 42:
         return True
-    elif antwoord == tweeenveertig":
+    elif antwoord == "tweeenveertig":
         return True
-    elif antwoord == tweeënveertig:
+    elif antwoord == "tweeënveertig:
         return True
     else:
         return False
