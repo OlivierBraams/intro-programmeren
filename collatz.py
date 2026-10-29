@@ -11,5 +11,5 @@ def collatz_length(n):
     return teller
     
 n = int(input("getal: "))
-print("Het koste coll")
+print("Het koste collatz_length(")
 
