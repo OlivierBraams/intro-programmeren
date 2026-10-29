@@ -1,4 +1,4 @@
-def collatz_length(n):
+def collatz_length(n: int):
     teller = 0
     while n > 1:
         if n % 2 == 0: 
