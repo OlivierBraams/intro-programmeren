@@ -11,7 +11,7 @@ def get_any_int_but_0():
 def get_min_int(minimum):
     getal = 0
     while  getal < minimum:
-        getal = int(input("Geef een groter getal dan {minimum}: "))
+        getal = int(input(f"Geef een groter getal dan {minimum}: "))
         
         
         
