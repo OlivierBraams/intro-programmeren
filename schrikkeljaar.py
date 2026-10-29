@@ -5,7 +5,8 @@ def schrikkeljaar(jaar: int) -> bool:
     >>> schrikkeljaar(10)
     False
     >>> schrikkeljaar(800)
-    False
+    True
+    >>> schrikkeljaar(200)
     """
     if jaar % 4 == 0:
         if jaar % 100 == 0:
