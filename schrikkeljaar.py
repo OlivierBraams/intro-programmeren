@@ -2,7 +2,7 @@ def schrikkeljaar(jaar: int) -> bool:
     """
     >>> schrikkeljaar(200)
     True
-    >>> is_acidic(9)
+    >>> 
     False
     >>> is_acidic(7)
     False
