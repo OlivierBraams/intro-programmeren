@@ -1,6 +1,6 @@
 def get_positive_int():
     getal = 1
-    while getal < 1:
+    while getal % 21:
         getal = int(input("Geef een even getal: "))
 
 
