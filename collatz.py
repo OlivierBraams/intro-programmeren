@@ -10,7 +10,9 @@ def collatz_length(n):
         
     return teller
 
-def print_collatz(n)
+def print_collatz(n):
+    print(n)
+    
 
 
 
