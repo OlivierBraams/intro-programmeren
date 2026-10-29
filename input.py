@@ -1,9 +1,9 @@
-def get_positive_int():
+def get_positive_int() -> None:
     getal = 0
     while getal % 2 != 0 or getal < 1:
         getal = int(input("Geef een positief even getal: "))
 
-def get_any_int_but_0():
+def get_any_int_but_0() -> None:
     getal = 0
     while getal == 0:
         getal = int(input("Geef een ander getal dan 0: "))
