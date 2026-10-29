@@ -1,4 +1,5 @@
 def collatz_length(n):
+    teller = 0
     while n != 1:
         if n % 2 == 0: 
             n / 2
