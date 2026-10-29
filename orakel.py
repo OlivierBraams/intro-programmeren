@@ -7,7 +7,10 @@ def check_answer(antwoord: str) -> bool:
         return True
     elif antwoord = tweeenveertig:
         return True
-    elif antwoord = twee
+    elif antwoord = tweeënveertig:
+        return True
+    else:
+        return False
 
 if __name__ == '__main__':
     antwoord = input("Wat is het antwoord op de grote vraag van het leven, het universum en alles daarbij? ")
