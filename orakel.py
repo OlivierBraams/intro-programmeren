@@ -18,4 +18,5 @@ def check_answer(antwoord: str) -> bool:
 
 if __name__ == '__main__':
     antwoord = input("Wat is het antwoord op de grote vraag van het leven, het universum en alles daarbij? ")
+    check_answer(antwoord)
     
