@@ -19,3 +19,4 @@ if __name__ == '__main__':
     ay1 = int(input("Geef de y1 van A: "))
     ay2 = int(input("Geef de y2 van A: "))
     bx1 = int(input("Geef de x1 van B: "))
+        bx1 = int(input("Geef de x1 van B: "))
