@@ -47,4 +47,4 @@ if __name__ == '__main__':
     if is_same_rectangle(calculate_length(ax1, ax2), calculate_length(ay1,ay2), calculate_length(bx1,bx2), calculate_length(by1,by2)):
         if is_same_square(calculate_length(ax1, ax2), calculate_length(ay1,ay2), calculate_length(bx1,bx2), calculate_length(by1,by2)):
             print("De rechthoeken zijn gelijk")
-            print("De rechthoeken zijn gelijk")
+            print("En ze zijn")
