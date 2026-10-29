@@ -1,5 +1,5 @@
 def get_positive_int():
-    getal = int(input("Geef een even getal: "))
+    getal = 1
     while getal % 2 > 0:
         getal = int(input("Geef een even getal: "))
 
