@@ -24,5 +24,5 @@ def print_collatz(n):
 
 n = int(input("getal: "))
 print_collatz(n)
-print("Het kostte ")
+print(f"Het kostte ")
 
