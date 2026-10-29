@@ -10,7 +10,7 @@ def get_any_int_but_0():
 
 def get_min_int(minimum):
     
-    while getal == 0:
+    while  == 0:
         getal = int(input("Geef een ander getal dan 0: "))
         
         
