@@ -6,4 +6,4 @@ def collatz_length(n):
         else:
             n * 3 + 1
         
-        
+        teller += 1
