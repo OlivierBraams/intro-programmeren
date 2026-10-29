@@ -7,3 +7,6 @@ def collatz_length(n):
             n * 3 + 1
         
         teller += 1
+        
+        
+
