@@ -50,3 +50,5 @@ if __name__ == '__main__':
             print("En ze zijn ook nog vierkant!")
         else:
             print("De rechthoeken zijn gelijk!")
+    else:
+        print("De rechthoeken zijn niet gelijk")
