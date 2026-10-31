@@ -6,7 +6,7 @@
 
 
 if __name__ == '__main__':
-    hoogte = 0
+    hoogte = 100
     while hoogte < 1 and hoogte > 23:
         hoogte = int(input("Hoe hoog moet de piramide zijn? "))
         
