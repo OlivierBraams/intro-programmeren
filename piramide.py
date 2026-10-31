@@ -1,13 +1,13 @@
 def piramide(hoogte: int) -> None:
     """
     >>> piramide(5)
-    ##
-    ###
-    ####
-    #####
+        ##
+       ###
+      ####
+     #####
     ######
     >>> piramide(2)
-    ##
+     ##
     ###
     >>> piramide(4)
        ##
