@@ -12,7 +12,9 @@ def count_coins(x: int) -> int:
     While x // 25 > 0:
         kwartjes = x // 25
         restant = x % 25
-        While x // 10 > 0: 
+    
+    While x // 10 > 0: 
+        
             
 
 if __name__ == '__main__':
