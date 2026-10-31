@@ -1,4 +1,4 @@
-def count_coins(x: float) -> tuple[int, int, int, int]:
+def count_coins(x: float) -> int:
     """
     >>> count_coins(0.25)
     1
