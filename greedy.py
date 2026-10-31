@@ -7,7 +7,7 @@ def count_coins(x: float) -> int:
     >>> count_coins(0.56)
     4
     """
-    restant  = int(100 * x)
+    restant  = int(round(100 * x))
     
     kwartjes = 0
     dubbeltjes = 0
