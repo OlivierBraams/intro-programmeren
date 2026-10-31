@@ -38,7 +38,7 @@ if __name__ == '__main__':
         bedrag = float(input('Geef een correct bedrag: '))
     
     
-    print(f"minimaal aantal munten: {}")
+    print(f"minimaal aantal munten: {count_coins(bedrag)}")
         
         
 
