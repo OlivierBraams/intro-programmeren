@@ -9,5 +9,5 @@ if __name__ == '__main__':
     while startpopulatie <= 9: 
         startpopulatie = int(input("startgrootte: "))
     eindpoulatie = 0
-    while eindpoulatie > startpopulatie:
+    while eindpopulatieulatie > startpopulatie:
         eindpint(input("eindgrootte: "))
