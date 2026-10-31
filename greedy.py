@@ -8,6 +8,7 @@ def count_coins(x: int) -> int:
     teller = 0
     While x // 40 > 0:
         kwartjes = x // 40
+        over
 
 if __name__ == '__main__':
     bedrag = -1
