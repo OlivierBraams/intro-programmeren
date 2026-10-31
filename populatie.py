@@ -6,6 +6,7 @@ def calculate_years(start_size: int, end_size: int) -> int:
     jaar = 0
     while start_size < end_size:
         
+        
 
 if __name__ == '__main__':
     startpopulatie = 1
