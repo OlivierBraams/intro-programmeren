@@ -1,7 +1,7 @@
 def piramide(x: int) -> int:
     for i in range(2, x + 1):
         for j in range(i):
-            print('#')
+            print('#') 
 
 
 
