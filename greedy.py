@@ -39,6 +39,7 @@ if __name__ == '__main__':
     
     kwartjes, dubbeltjes, stuivers, centen = count_coins(bedrag)
     print(f"kwartjes: {kwartjes}, dubbeltjes: {dubbeltjes}, stuivers: {stuivers}, centen: {centen}")
+    print(f"minimaal aantal munten: {kwartjes + dubbeltjes + stuivers + centen")
         
         
 
