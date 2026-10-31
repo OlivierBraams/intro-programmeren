@@ -14,7 +14,7 @@ def count_coins(x: int) -> int:
         restant = bedrag - 25
     
     
-    While restant / 10 > 1: 
+    While restant > 10: 
         dubbeltjes = restant - 10
     
     restant = restant % 10
