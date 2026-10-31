@@ -1,6 +1,6 @@
 def piramide(x: int) -> int:
     for i in (x + 1):
-        print('#')
+        print('#', end = i)
 
 
 
