@@ -17,7 +17,7 @@ def count_coins(x: int) -> int:
     While restant > 10: 
         restant = restant - 10
     
-    restant = restant % 10
+    
     
     While restant / 5 > 1:
         stuivers = restant - 5
