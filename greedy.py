@@ -1,6 +1,7 @@
 def count_coins(x: float) -> tuple[int, int, int, int]:
     """
     >>> count_coins(0.4)
+    
     """
     restant  = 100 * x
     
