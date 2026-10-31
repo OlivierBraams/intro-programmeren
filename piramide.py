@@ -1,3 +1,4 @@
 if __name__ == '__main__':
     grootte = -3
-    while grootte < 1 and grootte > 
+    while grootte < 1 and grootte > 23:
+        
