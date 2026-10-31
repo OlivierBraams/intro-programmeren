@@ -5,7 +5,9 @@ def piramide(hoogte: int) -> None:
     ###
     ####
     #####
-    >>> print(6)
+    >>> print(2)
+    ##
+    >>>
     """
     for i in range(1, hoogte):
         for j in range(i):
