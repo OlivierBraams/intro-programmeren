@@ -9,7 +9,7 @@ def calculate_years(start_size: int, end_size: int) -> int:
     """
     jaar = 0
     while start_size < end_size:
-        start_size =  start_size + (start_size / 3) - (start_size / 4)
+        start_size =  start_size + int(start_size / 3) - (start_size / 4)
         jaar += 1
        
     return jaar 
