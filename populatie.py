@@ -10,5 +10,5 @@ if __name__ == '__main__':
         startpopulatie = int(input("startgrootte: "))
     
     eindpopulatie = 0
-    while eindpopulatie > startpopulatie:
+    while eindpopulatie < startpopulatie:
         eindpopulatie = int(input("eindgrootte: "))
