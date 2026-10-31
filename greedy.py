@@ -25,7 +25,7 @@ def count_coins(x: int) -> int:
   
     
     While restant > 1:
-        centen = restant - 1
+        restant = restant - 1
 
 if __name__ == '__main__':
     bedrag = 0
