@@ -6,4 +6,4 @@ def count_coins(cents: int) -> int:
 
 if __name__ == '__main__':
     bedrag = -1
-    while bedrag 
+    while bedrag <= 0 
