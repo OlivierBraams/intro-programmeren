@@ -24,7 +24,7 @@ def count_coins(x: int) -> int:
         stuivers = restant - 5
 
 if __name__ == '__main__':
-    bedrag = -1
+    bedrag = 0
     while bedrag <= 0: 
         bedrag = float(input('Geef een correct bedrag: '))
         
