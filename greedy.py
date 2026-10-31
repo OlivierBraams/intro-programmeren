@@ -5,7 +5,7 @@ def count_coins(x: float) -> int:
     >>> count_coins(1.01)
     5
     >>> count_coins(0.56)
-    
+    4
     """
     restant  = 100 * x
     
