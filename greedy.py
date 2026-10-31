@@ -11,3 +11,7 @@ if __name__ == '__main__':
     bedrag = -1
     while bedrag <= 0: 
         bedrag = float(input('Geef een correct bedrag: '))
+        
+        
+
+print(100 // 4)
