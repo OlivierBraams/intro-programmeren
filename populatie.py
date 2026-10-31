@@ -24,4 +24,4 @@ if __name__ == '__main__':
     while eindpopulatie <= startpopulatie:
         eindpopulatie = int(input("eindgrootte: "))
     
-    print(f"Jaren: {calculate_years(startpopulatie, eindpopulatie)")
+    print(f"Jaren: {calculate_years(startpopulatie, eindpopulatie)}")
