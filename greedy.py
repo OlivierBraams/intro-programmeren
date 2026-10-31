@@ -5,6 +5,7 @@ def count_coins(x: int) -> int:
     """
     x = 100 * x
     
+    teller = 0
     While x // 40 > 0:
         x / 40
 
