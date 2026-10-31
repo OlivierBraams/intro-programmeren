@@ -30,7 +30,7 @@ def count_coins(x: int) -> int:
         restant = restant - 1
         centen += 1
         
-        return kwartjes, dub
+        return kwartjes, dubbeltjes, stuivers, centen
 
 if __name__ == '__main__':
     bedrag = 0
