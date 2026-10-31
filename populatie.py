@@ -8,3 +8,5 @@ if __name__ == '__main__':
     startpopulatie = 0
     while startpopulatie <= 9: 
         int(input("startgrootte: "))
+    eindpoulatie = 0
+    while 
