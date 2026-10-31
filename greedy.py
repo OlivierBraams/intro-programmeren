@@ -30,7 +30,7 @@ def count_coins(x: float) -> int:
         stuivers += 1
     
     
-    while restant >= 1:
+    while restant > 0:
         restant = restant - 1
         centen += 1
         
