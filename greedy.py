@@ -39,7 +39,7 @@ def count_coins(x: float) -> int:
 if __name__ == '__main__':
     bedrag = 0.0
     while bedrag <= 0: 
-        bedrag = input('Geef een correct bedrag: ')
+        bedrag = float(input('Geef een correct bedrag: ')
     
     
     print(f"minimaal aantal munten: {count_coins(bedrag)}")
