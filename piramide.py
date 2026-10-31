@@ -1,4 +1,4 @@
-def piramide(hoogte: int) -> int:
+def piramide(hoogte: int) -> None:
     for i in range(2, hoogte + 1):
         for j in range(i):
             print('#') 
