@@ -11,5 +11,6 @@ def print_table(old_type: str, begin_temp: int, end_temp: int, step_size: int) -
 
 if __name__ == '__main__':
     eenheid = "hallo"
+    while eenheid 
     input("Welke eenheid van Temperatuur (C of F): ")
     
