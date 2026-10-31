@@ -37,7 +37,7 @@ if __name__ == '__main__':
     while bedrag <= 0: 
         bedrag = float(input('Geef een correct bedrag: '))
     
-    
+    kwartjes, dubbeltjes, stuivers, centen = 
         
         
 
