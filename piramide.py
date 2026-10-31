@@ -1,6 +1,6 @@
-def piramide(x: int) -> int:
-    for i in range(x + 1):
-        print('#', end = '')
+# def piramide(x: int) -> int:
+#     for i in range(x + 1):
+#         print('#', end = '')
 
 
 
