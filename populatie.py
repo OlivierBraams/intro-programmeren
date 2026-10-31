@@ -6,4 +6,5 @@ def calculate_years(start_size: int, end_size: int) -> int:
 
 if __name__ == '__main__':
     startpopulatie = 0
-    while startpopulatie < 9
+    while startpopulatie <= 9: 
+        
