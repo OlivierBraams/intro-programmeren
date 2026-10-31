@@ -13,7 +13,7 @@ def piramide(hoogte: int) -> None:
     ####
     """
     for i in range(hoogte):
-        for j in range(i):
+        for j in range(i ):
             print('#', end = '')
         print("#")
 
