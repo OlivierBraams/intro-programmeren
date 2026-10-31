@@ -9,6 +9,7 @@ def count_coins(x: int) -> int:
     dubbeltjes = 0
     stuivers = 0 
     centen = 0
+    overblijfsel = 0
     While x // 40 > 0:
         kwartjes = x // 40
         over
