@@ -26,7 +26,7 @@ def count_coins(x: int) -> int:
         stuivers += 1
     
     
-    While restant > 1:
+    while restant > 1:
         restant = restant - 1
         centen += 1
         
