@@ -23,3 +23,5 @@ if __name__ == '__main__':
     eindpopulatie = 0
     while eindpopulatie <= startpopulatie:
         eindpopulatie = int(input("eindgrootte: "))
+    
+    
