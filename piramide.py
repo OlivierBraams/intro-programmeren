@@ -1,5 +1,5 @@
 def piramide(x: int) -> int:
-    for i in (x):
+    for i in (x + 1):
         print('#', end = '')
 
 
