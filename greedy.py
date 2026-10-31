@@ -7,7 +7,7 @@ def count_coins(x: int) -> int:
     
     teller = 0
     While x // 40 > 0:
-        x / 40
+        x // 40
 
 if __name__ == '__main__':
     bedrag = -1
