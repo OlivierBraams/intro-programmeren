@@ -38,7 +38,7 @@ if __name__ == '__main__':
         bedrag = float(input('Geef een correct bedrag: '))
     
     kwartjes, dubbeltjes, stuivers, centen = count_coins(bedrag)
-    print(f"kwartjes: {kwartjes}, dubbeltjes: {dubbeltjes}, ")
+    print(f"kwartjes: {kwartjes}, dubbeltjes: {dubbeltjes}, stuivers: {stuivers}, centen: {centen}")
         
         
 
