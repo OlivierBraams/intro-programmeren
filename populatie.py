@@ -8,7 +8,8 @@ def calculate_years(start_size: int, end_size: int) -> int:
         start_size += start_size / 3
         start_size -= start_size / 4
         jaar += 1
-        
+       
+    return jaar 
 
 if __name__ == '__main__':
     startpopulatie = 1
