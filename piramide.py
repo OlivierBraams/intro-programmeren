@@ -1,4 +1,8 @@
 def piramide(hoogte: int) -> None:
+    """
+    >>> piramide(5)
+    
+    """
     for i in range(1, hoogte):
         for j in range(i):
             print('#', end = '')
