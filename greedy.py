@@ -20,7 +20,7 @@ def count_coins(x: int) -> int:
     
     restant = restant % 10
     
-    While restant // 5 > 0:
+    While restant / 5 > 1:
         stuivers = restant - 5
 
 if __name__ == '__main__':
